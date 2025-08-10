@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GerenciadorTarefasApp.no3x2dloy7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Jul 2025 04:59:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 04:32:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GerenciadorTarefasApp/GerenciadorTarefasApp.no3x2dloy7.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GerenciadorTarefasApp.no3x2dloy7.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"no3x2dloy7"},{"Name":"integrity","Value":"sha256-GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8="},{"Name":"label","Value":"_content/GerenciadorTarefasApp/GerenciadorTarefasApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Jul 2025 04:59:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GYkKE7t4OaDuMTCiuKtqcVf1r7rhdjNTn9DaDnhYOq8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 04:32:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GerenciadorTarefasApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
