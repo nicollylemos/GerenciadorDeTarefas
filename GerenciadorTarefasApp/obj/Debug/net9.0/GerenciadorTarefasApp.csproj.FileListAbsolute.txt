@@ -141,7 +141,6 @@ C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\Gerenciad
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\scopedcss\bundle\GerenciadorTarefasApp.styles.css
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\scopedcss\projectbundle\GerenciadorTarefasApp.bundle.scp.css
-C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\compressed\rihoqj10ad-b9sayid5wm.gz
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\compressed\55jw0tfl89-61n19gt1b8.gz
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\compressed\wvltuboyv4-xtxxf3hu2r.gz
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\compressed\2it74x5ven-bqjiyaj88i.gz
@@ -220,3 +219,4 @@ C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\Gerenciad
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\GerenciadorTarefasApp.pdb
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\GerenciadorTarefasApp.genruntimeconfig.cache
 C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\ref\GerenciadorTarefasApp.dll
+C:\Users\nicol\OneDrive\Área de Trabalho\Estudos\GerenciadorDeTarefas\GerenciadorTarefasApp\obj\Debug\net9.0\compressed\rihoqj10ad-j21nw3u9fu.gz
