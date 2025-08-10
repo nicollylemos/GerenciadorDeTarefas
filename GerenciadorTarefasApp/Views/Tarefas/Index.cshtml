@@ -1,0 +1,52 @@
+﻿@model IEnumerable<GerenciadorTarefasApp.Models.Tarefas>
+
+@{
+    ViewData["Title"] = "Lista de Tarefas";
+}
+
+<h1>Lista de Tarefas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Criar Nova Tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Titulo)</th>
+            <th>@Html.DisplayNameFor(model => model.Descricao)</th>
+            <th>@Html.DisplayNameFor(model => model.DataConclusao)</th>
+            <th>@Html.DisplayNameFor(model => model.Conclusao)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Titulo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descricao)</td>
+                <td>@Html.DisplayFor(modelItem => item.DataConclusao)</td>
+                @if(item.Conclusao == true)
+                {
+                    <td style="color: green; font-weight: bold;">Concluída</td>
+                }
+                else
+                {
+                    <td style="color: orange; font-weight: bold;">Andamento</td>
+                }
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a> |
+                    <form asp-action="ToggleConcluida" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-sm @(item.Conclusao ? "btn-warning" : "btn-success")">
+                            @(item.Conclusao? "Marcar como Pendente" : "Marcar como Concluída")
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

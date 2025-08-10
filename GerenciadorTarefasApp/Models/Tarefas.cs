@@ -22,7 +22,7 @@ namespace GerenciadorTarefasApp.Models
 
 
         [Required(ErrorMessage = "A data de conclusão é obrigatória.")]
-        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         [DataType(DataType.Date, ErrorMessage = "A data de conclusão deve ser uma data válida.")]
         public DateTime DataConclusao { get; set; }
 
