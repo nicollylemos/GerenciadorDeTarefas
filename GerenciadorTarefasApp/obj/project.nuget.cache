@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pCzCE255Yaw=",
+  "dgSpecHash": "hMUhfeheGVs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\GerenciadorTarefasApp.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\GerenciadorTarefasApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicol\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\nicol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

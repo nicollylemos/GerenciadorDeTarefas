@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\GerenciadorTarefasApp.csproj": {}
+    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\GerenciadorTarefasApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\GerenciadorTarefasApp.csproj": {
+    "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\GerenciadorTarefasApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\GerenciadorTarefasApp.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\GerenciadorTarefasApp.csproj",
         "projectName": "GerenciadorTarefasApp",
-        "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\GerenciadorTarefasApp.csproj",
+        "projectPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\GerenciadorTarefasApp.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\GerenciadorTarefasApp\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\OneDrive\\Área de Trabalho\\Estudos\\GerenciadorDeTarefas\\gerenciadortarefasapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
